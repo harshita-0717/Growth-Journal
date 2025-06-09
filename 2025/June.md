@@ -8,7 +8,7 @@
  
 
 ## 🗓️ June 8, 2025
-- ✅ **What I Have Done:** Deloitte Australia Cyber Job Simulation on Forage
+- ✅ **Task 1:** Deloitte Australia Cyber Job Simulation on Forage
 - ✅ **What I Learned:** Computer Networks, Log Inspection, Web Security
 - 🔗 **Source:** Deloitte
 - 🕒 **Time Spent:** 50 minutes
