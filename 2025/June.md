@@ -1,4 +1,21 @@
 # 📘 June 2025 - Daily Log
+
+## 🗓️June 11, 2025
+- ✅ **What I Learned:**
+  - Explored **OSWP Top 10** (focus on **Authentication** & **Access Control flaws**)
+  - Practiced **username enumeration** via response-based error analysis
+  - Performed **password brute-force attacks** using Burp Suite & Python (`requests`)
+  - Understood and identified **Horizontal vs Vertical Privilege Escalation**, and **Bypassing 2FA**
+  - Set up and used **Burp Suite** for request interception, Intruder, and response analysis
+- 🔗 **Source:** PortSwigger Web Security Academy
+     - Labs related to OWASP Top 10 vulnerabilities
+- 🕒 **Time Spent:** 2–3 hours
+- 📝 **Notes:**
+  - Authentication & access controls are often misconfigured — easy to exploit with wordlists
+  - Response differences are key to enumeration
+  - Burp + scripting = powerful combo for automating attacks
+
+
 ## 🗓️ June 10, 2025
 - ✅ **What I Learned:** Started a new journey of OWASP Top 10 Vulnerabilities
      - Web application vulnerabilities like Path Traversal, Unprotected Admin Panels, JavaScript Info Disclosure, Insecure Cookie-based Role Control, and Horizontal Privilege Escalation using GUIDs.
