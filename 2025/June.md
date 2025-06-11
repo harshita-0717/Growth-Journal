@@ -1,6 +1,6 @@
 # 📘 June 2025 - Daily Log
 
-## 🗓️June 11, 2025
+## 🗓️ June 11, 2025
 - ✅ **What I Learned:**
   - Explored **OSWP Top 10** (focus on **Authentication** & **Access Control flaws**)
   - Practiced **username enumeration** via response-based error analysis
