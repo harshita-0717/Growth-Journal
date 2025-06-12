@@ -1,5 +1,21 @@
 # 📘 June 2025 - Daily Log
 
+## 🗓️ June 12, 2025
+- ✅ **What I Learned:**
+    - Server-Side Request Forgery (SSRF)
+    - SSRF Attack Techniques & Lab Exploitation
+    - Unrestricted File Upload Vulnerabilities
+    - Remote Code Execution via Web Shells
+- 🔗 **Source:** PortSwigger Web Security Academy
+     - Labs related to OWASP Top 10 vulnerabilities
+- 🕒 **Time Spent:** 2–3 hours
+- 📝 **Notes:**
+    - Validate MIME type and file content server-side
+    - Store uploaded files outside web root
+    - SSRF + File Upload often chained for deeper exploitation
+    - Tools used: Burp Suite (Proxy, Repeater, Intruder)
+
+  
 ## 🗓️ June 11, 2025
 - ✅ **What I Learned:**
   - Explored **OSWP Top 10** (focus on **Authentication** & **Access Control flaws**)
