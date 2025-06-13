@@ -1,5 +1,19 @@
 # 📘 June 2025 - Daily Log
 
+## 🗓️ June 13, 2025
+- ✅ **What I Learned:** Exploited insecure file upload by bypassing MIME type validation to execute a PHP web shell.
+- 🔗 **Source:** PortSwigger Web Security Academy
+     - Labs related to OWASP Top 10 vulnerabilities
+- 🕒 **Time Spent:** ~2.5 hours with multiple failed attempts before success
+- 📝 **Notes:**
+  - Used Burp Suite to change Content-Type to image/jpeg in a .php upload.
+  - Accessed the uploaded file via /files/avatars/exploit.php to read /home/carlos/secret.
+  - Learned how weak server-side checks can lead to RCE.
+  - Reinforced how dangerous improper file validation can be in real-world apps.
+  - Great hands-on learning of file upload exploitation and Burp Repeater manipulation.
+
+
+
 ## 🗓️ June 12, 2025
 - ✅ **What I Learned:**
     - Server-Side Request Forgery (SSRF)
