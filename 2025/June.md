@@ -1,5 +1,21 @@
 # 📘 June 2025 - Daily Log
 
+## 🗓️ June 16, 2025
+- ✅ **What I Learned:** Completed the final two modules in the Server-Side Vulnerabilities path:
+     - OS Command Injection
+     - SQL Injection
+- 🔗 **Source:** PortSwigger Web Security Academy (Apprentice Level, 52/52 Labs Completed)
+     - Labs related to OWASP Top 10 vulnerabilities
+- 🕒 **Time Spent:** ~2 hours
+- 📝 **Notes:**
+     - In OS Command Injection labs, used command chaining and encoding bypasses to execute system commands remotely. Learned difference between blind and visible injection responses.
+     - In SQL Injection labs, bypassed login authentication using SQLi payloads like `administrator'--` and tested multiple encoding and commenting strategies.
+     - Reinforced skills in Burp Suite (Proxy, Repeater, and manual payload crafting).
+     - Completing this path gave deep practical insight into high-impact server-side vulnerabilities and how they’re exploited in real-world apps.
+
+## 🗓️ June 15, 2025 - On Leave
+## 🗓️ June 14, 2025 - On Leave
+
 ## 🗓️ June 13, 2025
 - ✅ **What I Learned:** Exploited insecure file upload by bypassing MIME type validation to execute a PHP web shell.
 - 🔗 **Source:** PortSwigger Web Security Academy
