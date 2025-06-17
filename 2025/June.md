@@ -1,5 +1,21 @@
 # 📘 June 2025 - Daily Log
 
+## 🗓️ June 17, 2025
+- ✅ **What I Learned:** Started Course of Application Vulnerabilities
+    - Meaning of authentication
+    - Difference between authentication and authorization
+    - How weak authentication can lead to vulnerabilities
+    - The risks and impact of using poor authentication methods
+    - Issues with password-based login systems (like brute-force flaws)
+- 🔗 **Source:** PortSwigger Web Security Academy | Application Vulnerabilities 
+- 🕒 **Time Spent:** 3-4 hours
+- 📝 **Notes:**
+     - Authentication confirms user identity; authorization gives access.
+     - Attackers exploit poor logic in login systems.
+     - IP blocking can be bypassed using successful logins in between.
+     - Password-based systems need smarter protections (rate-limiting, CAPTCHA, MFA).
+     - Used Burp Suite and Python to automate a brute-force bypass.
+
 ## 🗓️ June 16, 2025
 - ✅ **What I Learned:** Completed the final two modules in the Server-Side Vulnerabilities path:
      - OS Command Injection
@@ -14,6 +30,7 @@
      - Completing this path gave deep practical insight into high-impact server-side vulnerabilities and how they’re exploited in real-world apps.
 
 ## 🗓️ June 15, 2025 - On Leave
+
 ## 🗓️ June 14, 2025 - On Leave
 
 ## 🗓️ June 13, 2025
