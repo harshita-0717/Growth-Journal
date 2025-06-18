@@ -1,5 +1,12 @@
 # 📘 June 2025 - Daily Log
+  
+## 🗓️ June 18, 2025
+- ✅ **What I Learned:** Vulnerabilities in password based logins
+- 🔗 **Source:** 
+- 🕒 **Time Spent:** 
+- 📝 **Notes:**
 
+  
 ## 🗓️ June 17, 2025
 - ✅ **What I Learned:** Started Course of Application Vulnerabilities
     - Meaning of authentication
